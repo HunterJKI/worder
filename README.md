@@ -3,9 +3,7 @@ a word game where you guess a word
 
 ---
 
----
-
-## Set Up
+## System Set Up
 
 ![Windows](https://badgen.net/badge/icon/Windows?icon=windows&label)
 
